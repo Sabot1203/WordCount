@@ -1,0 +1,26 @@
+
+D:\Users\sabot\WordCount\bin\empty.txt,字符数:0
+D:\Users\sabot\WordCount\bin\empty.txt,单词数:0
+D:\Users\sabot\WordCount\bin\empty.txt,行数:1
+D:\Users\sabot\WordCount\bin\empty.txt,代码行/空行/注释行:0/0/0
+
+D:\Users\sabot\WordCount\bin\oneChar.txt,字符数:1
+D:\Users\sabot\WordCount\bin\oneChar.txt,单词数:1
+D:\Users\sabot\WordCount\bin\oneChar.txt,行数:1
+D:\Users\sabot\WordCount\bin\oneChar.txt,代码行/空行/注释行:1/0/0
+
+D:\Users\sabot\WordCount\bin\oneWord.txt,字符数:4
+D:\Users\sabot\WordCount\bin\oneWord.txt,单词数:1
+D:\Users\sabot\WordCount\bin\oneWord.txt,行数:1
+D:\Users\sabot\WordCount\bin\oneWord.txt,代码行/空行/注释行:1/0/0
+
+D:\Users\sabot\WordCount\bin\oneLine.txt,字符数:20
+D:\Users\sabot\WordCount\bin\oneLine.txt,单词数:5
+D:\Users\sabot\WordCount\bin\oneLine.txt,行数:1
+D:\Users\sabot\WordCount\bin\oneLine.txt,代码行/空行/注释行:1/0/0
+
+
+D:\Users\sabot\WordCount\bin\oneprogram.txt,�ַ���:2851
+D:\Users\sabot\WordCount\bin\oneprogram.txt,������:242
+D:\Users\sabot\WordCount\bin\oneprogram.txt,����:90
+D:\Users\sabot\WordCount\bin\oneprogram.txt,������/����/ע����:48/42/0
